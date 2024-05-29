@@ -3,6 +3,7 @@ defineOptions({
   name: 'IndexPage',
 })
 const appName = 'biki'
+const appName = 'boundfl'
 </script>
 
 <template>
