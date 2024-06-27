@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'FOCP'
+const appName = 'PiHup'
 </script>
 
 <template>
