@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'biki'
+const appName = 'lmprvp'
 </script>
 
 <template>
