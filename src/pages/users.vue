@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'lmprvp'
+const appName = 'Mimo'
 </script>
 
 <template>
