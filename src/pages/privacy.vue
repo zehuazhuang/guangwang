@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Mimo'
+const appName = 'FitU'
 </script>
 
 <template>
