@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Otdor'
+const appName = 'EmoNet'
 </script>
 
 <template>
