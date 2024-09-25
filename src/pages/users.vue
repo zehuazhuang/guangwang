@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Catta'
+const appName = 'LiftU'
 </script>
 
 <template>
