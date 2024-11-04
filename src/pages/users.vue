@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'CupChat'
+const appName = 'PixJoy'
 </script>
 
 <template>
