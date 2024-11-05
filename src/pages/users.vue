@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'MeeAI'
+const appName = 'Blex'
 </script>
 
 <template>
