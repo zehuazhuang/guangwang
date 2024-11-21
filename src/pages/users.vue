@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Blex'
+const appName = 'PonPi'
 </script>
 
 <template>
