@@ -8,7 +8,7 @@ defineOptions({
   <div relative min-h-100vh>
     <img h-full w-full src="../assets/bg.webp" alt="">
 
-    <div class="email" absolute bottom-10 w-full flex justify-center>
+    <div class="email" absolute top-10 right-12>
       <div rd-2 bg-black p-2 p-x-5 text-8 color-white>
         qz72699@icloud.com
       </div>
