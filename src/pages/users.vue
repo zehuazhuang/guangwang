@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Biteo'
+const appName = 'Minge'
 </script>
 
 <template>
