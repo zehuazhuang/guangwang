@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Chos'
+const appName = 'Jive'
 </script>
 
 <template>
