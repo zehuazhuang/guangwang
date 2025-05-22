@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Outfy'
+const appName = 'Vinome'
 </script>
 
 <template>
