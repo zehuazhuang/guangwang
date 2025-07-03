@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Vinome'
+const appName = 'Tago'
 </script>
 
 <template>
