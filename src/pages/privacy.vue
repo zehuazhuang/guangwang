@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Vory'
+const appName = 'Emoco'
 </script>
 
 <template>
