@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Eclira'
+const appName = 'Fingro'
 </script>
 
 <template>
