@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Nyctia'
+const appName = 'Minove'
 </script>
 
 <template>
