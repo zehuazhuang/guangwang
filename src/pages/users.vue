@@ -2,7 +2,7 @@
 defineOptions({
   name: 'IndexPage',
 })
-const appName = 'Aroo'
+const appName = 'Ornix'
 </script>
 
 <template>
